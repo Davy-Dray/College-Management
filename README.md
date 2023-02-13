@@ -18,7 +18,7 @@ Installation
 
 To run this project locally, follow these steps:
 
-Clone the repository to your local machine using git clone https://github.com/your-repo-url.git.
+Clone the repository to your local machine using git clone https://github.com/Davy-Dray/College-Management.git
 Open the project in your IDE.
 Navigate to the root directory of the project and run the following command to install the dependencies: mvn install.
 Run the project by executing the main class or by using the IDE's Run command.
