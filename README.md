@@ -28,15 +28,9 @@ You can configure the application by modifying the application.properties file l
 
 Usage
 
-The project provides REST APIs for performing various operations such as user authentication and data management for a college,where necessary informations like student's grades,teachers's salaries are been managed You can use a tool such as Postman to interact with the APIs.
+The project provides REST APIs for performing various operations such as user authentication and data management for a college,where necessary informations like student's grades,teachers's salaries are been managed. You can use a tool such as Postman to interact with the APIs.
+Project is still on the go. Will add unit and integration test.
 
-Contribution
-
-If you wish to contribute to this project, you can fork the repository, make your changes, and then submit a pull request. Before making any changes, please discuss them with the repository maintainers.
-
-License
-
-This project is licensed under the MIT License.
 
 Conclusion
 
